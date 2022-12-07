@@ -1,6 +1,6 @@
 <template>
     <div class="game-area">
-        <p> {{ answer }} </p>
+        <!-- <p> {{ answer }} </p> -->
         <h1 class="title">Hulk <span>Nerede</span><strong>?</strong></h1>
         <h4 class="description">Açık kartlardan birini seçtikten sonra, kapalı olan karta tıklayınız...</h4>
         <div class="container">
